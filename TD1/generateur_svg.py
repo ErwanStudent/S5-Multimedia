@@ -227,4 +227,3 @@ for i in range(1, 6):
 
     compose(points_out, triangles, 0.7 - (0.1*i))
 dessin.save()
-
