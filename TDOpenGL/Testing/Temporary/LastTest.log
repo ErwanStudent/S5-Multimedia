@@ -1,0 +1,20 @@
+Start testing: Nov 25 11:56 CET
+----------------------------------------------------------
+1/1 Testing: SimpleTest
+1/1 Test: SimpleTest
+Command: "/home/iut45/Etudiants/o22401314/Documents/S5-Multimedia/TDOpenGL/td"
+Directory: /home/iut45/Etudiants/o22401314/Documents/S5-Multimedia/TDOpenGL
+"SimpleTest" start time: Nov 25 11:56 CET
+Output:
+----------------------------------------------------------
+reshape
+display
+<end of output>
+Test time =  13.10 sec
+----------------------------------------------------------
+Test Passed.
+"SimpleTest" end time: Nov 25 11:56 CET
+"SimpleTest" time elapsed: 00:00:13
+----------------------------------------------------------
+
+End testing: Nov 25 11:56 CET
